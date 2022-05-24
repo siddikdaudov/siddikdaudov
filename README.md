@@ -22,4 +22,4 @@ React Bootstrap |
 
 [santeptar]: https://github.com/siddikdaudov/wattpad-frontend
 [hachiko]: https://github.com/siddikdaudov/second-life
-[telegram]: https://t.me/tlkt4k
+[telegram]: https://t.me/siddik
