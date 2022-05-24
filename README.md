@@ -1,8 +1,8 @@
 ## Привет👋
 
 ### Я Frontend (React, Node.js) разработчик
-<br/>
-Стек технологий, с которым я работал:
+
+### Стек технологий, с которым я работал:
 
 - React
 - Redux
@@ -14,11 +14,13 @@
 - Mongoose
 - MongoDB
 
-Мои проекты:
+### Мои проекты:
 
-<ul>
-	<li><a href="https://github.com/siddikdaudov/wattpad-frontend" target='_blank'>Santeptar</a></li>
-	<li><a href="https://github.com/siddikdaudov/second-life">Хатико</a></li>
-</ul>
+- [Santeptar][santeptar]
+- [Хатико][hachiko]
 
-Чтобы связаться со мной, напишите мне в <a href="https://t.me/tlkt4k">телеграм</a>
+### Чтобы связаться со мной, напишите мне в [телеграм][telegram]
+
+[santeptar]: https://github.com/siddikdaudov/wattpad-frontend
+[hachiko]: https://github.com/siddikdaudov/second-life
+[telegram]: https://t.me/tlkt4k
