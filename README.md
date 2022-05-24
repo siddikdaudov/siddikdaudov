@@ -1,24 +1,18 @@
-<h1>Привет👋</h1>
+### Привет👋
 
-## Я Frontend (React, Node.js) разработчик
+Я Frontend (React, Node.js) разработчик
 
 Стек технологий, с которым я работал:
 
-<ul id='stack' style='width: 33%; display: flex; justify-content: space-between;'>
-	<span>
-	<li>React</li>
-	<li>Redux</li>
-	<li>Redux Thunk</li>
-	<li>React Router</li>
-	<li>React Bootstrap</li>
-	</span>
-	<span>
-	<li>NodeJS</li>
-	<li>Express</li>
-	<li>Mongoose</li>
-	<li>MongoDB</li>
-	</span>
-</ul>
+- React
+- Redux
+- Redux Thunk
+- React Router
+- React Bootstrap
+- NodeJS
+- Express
+- Mongoose
+- MongoDB
 
 Мои проекты:
 
@@ -27,4 +21,4 @@
 	<li><a href="https://github.com/siddikdaudov/second-life" target='_blank'>Хатико</a></li>
 </ul>
 
-Чтобы связаться со мной, напишите мне в <a href="t.me/tlkt4k" target='_blank'>телеграм</a>
+Чтобы связаться со мной, напишите мне в <a href="https://t.me/tlkt4k" target='_blank'>телеграм</a>
