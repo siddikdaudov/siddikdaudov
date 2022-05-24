@@ -1,18 +1,10 @@
-<style>
-	#stack {
-		width: 33%;
-		display: flex;
-		justify-content: space-between;
-	}
-</style>
-
 <h1>Привет👋</h1>
 
 ## Я Frontend (React, Node.js) разработчик
 
 Стек технологий, с которым я работал:
 
-<ul id='stack'>
+<ul id='stack' style='width: 33%; display: flex; justify-content: space-between;'>
 	<span>
 	<li>React</li>
 	<li>Redux</li>
