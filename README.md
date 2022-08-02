@@ -7,9 +7,10 @@
 Frontend | Backend
 --- | ---
 React | NodeJS
-Redux | Express
-Redux Thunk | Mongoose
-React Router | MongoDB
+Next.js | Express
+Redux | Mongoose
+Redux Thunk | MongoDB
+React Router | 
 React Bootstrap |
 
 
